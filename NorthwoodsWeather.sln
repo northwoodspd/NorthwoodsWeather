@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwoodsWeather.iOS", "NorthwoodsWeather.iOS\NorthwoodsWeather.iOS.csproj", "{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwoodsWeather.UWP", "NorthwoodsWeather.UWP\NorthwoodsWeather.UWP.csproj", "{36F51569-47AF-4F68-811A-6DBC39DCD559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Debug|ARM.ActiveCfg = Debug|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Debug|iPhone.Build.0 = Debug|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Debug|x64.ActiveCfg = Debug|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Debug|x86.ActiveCfg = Debug|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Release|ARM.ActiveCfg = Release|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Release|iPhone.ActiveCfg = Release|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Release|iPhone.Build.0 = Release|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Release|iPhone.Deploy.0 = Release|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Release|x64.ActiveCfg = Release|iPhone
+		{80A96B52-6758-4BDB-B0B4-CEA4CA155C60}.Release|x86.ActiveCfg = Release|iPhone
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|ARM.ActiveCfg = Debug|ARM
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|ARM.Build.0 = Debug|ARM
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|ARM.Deploy.0 = Debug|ARM
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|iPhone.ActiveCfg = Debug|x86
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|iPhoneSimulator.ActiveCfg = Debug|x86
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|x64.ActiveCfg = Debug|x64
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|x64.Build.0 = Debug|x64
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|x64.Deploy.0 = Debug|x64
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|x86.ActiveCfg = Debug|x86
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|x86.Build.0 = Debug|x86
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Debug|x86.Deploy.0 = Debug|x86
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|ARM.ActiveCfg = Release|ARM
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|ARM.Build.0 = Release|ARM
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|ARM.Deploy.0 = Release|ARM
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|iPhone.ActiveCfg = Release|x86
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|iPhoneSimulator.ActiveCfg = Release|x86
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|x64.ActiveCfg = Release|x64
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|x64.Build.0 = Release|x64
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|x64.Deploy.0 = Release|x64
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|x86.ActiveCfg = Release|x86
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|x86.Build.0 = Release|x86
+		{36F51569-47AF-4F68-811A-6DBC39DCD559}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA12FFD-AF00-4E0B-BB85-BE225F3662A0}
+	EndGlobalSection
+EndGlobal
